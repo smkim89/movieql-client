@@ -15,6 +15,7 @@ const Card = styled.div`
   position: relative;
 `;
 
+
 const Title = styled.span`
   background-color: white;
   width: auto;
